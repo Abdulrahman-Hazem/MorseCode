@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607539165 source:c:\users\hazem\desktop\morse code final submission\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1607543103 source:c:\users\hazem\desktop\programmes\morse code final submission\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
